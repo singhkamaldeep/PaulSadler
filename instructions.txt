@@ -1,4 +1,8 @@
 new instructions which needs to be followed.
 
-
 this is the change to file locally..
+
+More instructions here. added this line on remote repository directly on the GITHUB
+
+THIS IS A RESULT OF RESLVING THE CONFLICT. both changes were incorporated.
+
